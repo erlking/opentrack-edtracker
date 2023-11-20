@@ -183,7 +183,7 @@ Press &quot;clear calibration&quot; to remove any calibration data pertaining to
     </message>
     <message>
         <source>Center at startup</source>
-        <translation>启动时自动回中</translation>
+        <translation>启动时回中</translation>
     </message>
     <message>
         <source>Disable user interface localization</source>
@@ -255,7 +255,7 @@ Press &quot;clear calibration&quot; to remove any calibration data pertaining to
     </message>
     <message>
         <source>Alter the centered position sent to games. Useful if the default position is too much downward or upward.</source>
-        <translation>改变游戏中的得到的回中位置.  对于默认位置有明显偏移的很有用.</translation>
+        <translation>改变发送到游戏的回中位置. 对于默认位置有明显偏移的很有用.</translation>
     </message>
     <message>
         <source>°</source>
@@ -263,7 +263,7 @@ Press &quot;clear calibration&quot; to remove any calibration data pertaining to
     </message>
     <message>
         <source> cm</source>
-        <translation> 厘米</translation>
+        <translation></translation>
     </message>
     <message>
         <source>CSV Data Logging</source>
@@ -351,7 +351,7 @@ Press &quot;clear calibration&quot; to remove any calibration data pertaining to
     </message>
     <message>
         <source>Centering method</source>
-        <translation type="unfinished"></translation>
+        <translation>回中方法</translation>
     </message>
     <message>
         <source>Point</source>
@@ -359,11 +359,11 @@ Press &quot;clear calibration&quot; to remove any calibration data pertaining to
     </message>
     <message>
         <source>Wireless VR 360</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无线 VR 360</translation>
     </message>
     <message>
         <source>Roll compensated</source>
-        <translation type="unfinished"></translation>
+        <translation>滚转补偿</translation>
     </message>
     <message>
         <source>Freeze the position returned by the tracker while this mode is active.</source>

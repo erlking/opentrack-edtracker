@@ -57,7 +57,9 @@ Don't be afraid to submit an **issue/feature request** if you have any problems!
 - BBC micro:bit, LEGO, sensortag support via Smalltalk<sup>[(1)](https://en.wikipedia.org/wiki/Smalltalk)[(2)](https://en.wikipedia.org/wiki/Alan_Kay)</sup>
   [S2Bot](http://www.picaxe.com/Teaching/Other-Software/Scratch-Helper-Apps/)
 - Wiimote (Windows)
+- NeuralNet face tracker
 - Eyeware Beam<sup>[[1](https://beam.eyeware.tech/)]</sup>
+- Tobii eye tracker
 
 ## Output protocols
 
@@ -88,10 +90,11 @@ Don't be afraid to submit an **issue/feature request** if you have any problems!
 - Stéphane Lenclud (Kinect Face Tracker, Easy Tracker)
 - GO63-samara (Hamilton Filter, Pose-widget improvement)
 - Davide Mameli (Eyeware Beam tracker)
+- Khoa Nguyen (Tobii eye tracker)
 
 ## Thanks
 
-- uglyDwarf (high CON)
+- uglyDwarf (of [linuxtrack](https://github.com/uglyDwarf/linuxtrack/))
 - Andrzej Czarnowski (FreePIE tracker and
   [Google Cardboard](https://github.com/opentrack/opentrack/wiki/VR-HMD-goggles-setup-----google-cardboard,-colorcross,-opendive)
   assistance, testing)
